@@ -1,0 +1,7 @@
+[core]
+	editor = vi
+[user]
+	name = Bill Van Leeuwen
+	email = billvanleeuwen424@gmail.com
+[init]
+	defaultBranch = main

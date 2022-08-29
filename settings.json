@@ -1,0 +1,10 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "none",
+    "sync.gist": "4a558f260cfcd22b854172f0600f5a82",
+    "editor.rulers": [
+        100
+    ],
+    "editor.experimental.stickyScroll.enabled": true
+
+}
